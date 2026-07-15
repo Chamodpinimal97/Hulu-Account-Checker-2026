@@ -1,0 +1,6 @@
+pygetwindow
+opencv-python
+numpy
+psutil
+win32api
+mouse
